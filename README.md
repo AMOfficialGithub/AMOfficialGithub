@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [RobloxStudio](https://github.com/AMOfficialGithub/RobloxStudio)
 
-- 🌱 I’m currently learning **ASP.NET,Python, Angular, Javascript, React, Django,C++, Networking,Blender,GodotC#,Krita**
+- 🌱 I’m currently learning **ASP.NET,Python, Angular, Javascript, React, Django,C++, Networking, Blender, GodotC#, Krita**
 
 - 👯 I’m looking to collaborate on [CutieEditor](https://github.com/AMOfficialGithub/CutieEditor)
 
-- 🤝 I’m looking for help with [Pico8](https://github.com/AMOfficialGithub/Pico8)
+- 🤝 I’m looking for help with [Godot C#](https://github.com/AMOfficialGithub/GodotC--Projects)
 
-- 💬 Ask me about **Roblox Studio, Lua, WolfRPGEditor,Blender**
+- 💬 Ask me about **Roblox Studio, Lua, C#, WolfRPGEditor, Blender**
 
 - 📫 How to reach me **https://www.linkedin.com/in/april-mcbroom-88608218a/**
 
