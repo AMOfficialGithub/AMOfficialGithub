@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/april-mcbroom-88608218a/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
