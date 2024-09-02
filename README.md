@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Godot C#](https://github.com/AMOfficialGithub/GodotC--Projects)
 
-- 💬 Ask me about **Roblox Studio, Lua, C#, WolfRPGEditor, Blender**
+- 💬 Ask me about **Roblox Studio, Lua, C#, WolfRPGEditor, Blender, GodotC#**
 
 - 📫 How to reach me **https://www.linkedin.com/in/april-mcbroom-88608218a/**
 
