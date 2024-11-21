@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amofficialgithub" alt="amofficialgithub" /></a> </p>
 
-- 🔭 I’m currently working on [PinkSalt](https://github.com/AMOfficialGithub/PinkSalt)
+- 🔭 I’m currently working on [PinkSalt](https://github.com/AMOfficialGithub/PinkSalt), a note-taking application.
 
 - 🌱 I’m currently learning **ASP.NET, Python, Angular, Javascript, React, Django, C++, Networking, Blender, GodotC#, Krita**
 
