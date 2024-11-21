@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amofficialgithub" alt="amofficialgithub" /></a> </p>
 
-- 🔭 I’m currently working on [PinkSalt](https://github.com/AMOfficialGithub/PinkSalt), a note-taking application.
+- 🔭 I’m currently working on [PinkSalt](https://github.com/AMOfficialGithub/PinkSalt), a rich note-taking application.
 
-- 🌱 I’m currently learning **ASP.NET, Python, Angular, Javascript, React, Django, C++, Networking, Blender, GodotC#, Krita, LibreSprite**
+- 🌱 I’m currently learning **ASP.NET, Angular, WPF, Javascript, React, Python, Django, Networking, Blender, GodotC#, Krita, LibreSprite, C++**
 
 - 👯 I’m looking to collaborate on [CutieEditor](https://github.com/AMOfficialGithub/CutieEditor)
 
 - 🤝 I’m looking for help with [Godot C#](https://github.com/AMOfficialGithub/GodotC--Projects)
 
-- 💬 Ask me about **Roblox Studio, Lua, C#, WolfRPGEditor, Blender, GodotC#**
+- 💬 Ask me about **Roblox Studio, Lua, C#, WolfRPGEditor, GodotC#**
 
 - 📫 How to reach me **https://www.linkedin.com/in/april-mcbroom-88608218a/**
 
