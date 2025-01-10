@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PinkSalt](https://github.com/AMOfficialGithub/PinkSalt), a rich note-taking application.
 
-- 🌱 I’m currently learning **ASP.NET, Angular, WPF, Javascript, React, Python, Django, Networking, Blender, GodotC#, Krita, LibreSprite, C++**
+- 🌱 I’m currently learning **ASP.NET, Angular, WPF, Javascript, React, Python, Django, Databases, Networking, Blender, GodotC#, Krita, LibreSprite, C++**
 
 - 👯 I’m looking to collaborate on [CutieEditor](https://github.com/AMOfficialGithub/CutieEditor)
 
