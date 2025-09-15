@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [PinkSalt](https://github.com/AMOfficialGithub/PinkSalt), a rich note-taking application.
 
-- 🌱 I’m currently learning **ASP.NET, Angular, WPF, Javascript, React, Python, Django, Databases, Networking, Blender, GodotC#, Krita, LibreSprite, C++**
+- 🌱 I’m currently learning **ASP.NET, Angular, WPF, Javascript, React, Python, Django, Databases, Networking, Blender, GodotC#, Krita, LibreSprite, C++, AI, Machine Learning**
 
 - 👯 I’m looking to collaborate on [CutieEditor](https://github.com/AMOfficialGithub/CutieEditor)
 
 - 🤝 I’m looking for help with [Godot C#](https://github.com/AMOfficialGithub/GodotC--Projects)
 
-- 💬 Ask me about **Roblox Studio, Lua, C#, WolfRPGEditor, GodotC#**
+- 💬 Ask me about **Roblox Studio, Lua, C#, WolfRPGEditor, GodotC#, MicroStudio, Pico-8, Picotron**
 
 - 📫 How to reach me **https://www.linkedin.com/in/april-mcbroom-88608218a/**
 
